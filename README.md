@@ -22,3 +22,4 @@ NOTE OF Thanks
 ms smita & clevered team
 Mr. Ken Khan oxford professor
 (Note: game may not be as smooth on the video this depends on your system)
+(Note: xml files are recommendeed to open in snap.berkeley.edu/snap/snap.html & SB3 files in https://scratch.mit.edu/)
