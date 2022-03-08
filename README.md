@@ -13,7 +13,7 @@ RULES & GUIDLINES
 
 Pls Dont copy paste to another project
 
-If our are moddifing this code pls inform Me at tjoshith09@gmail.com
+If You are moddifing this code pls inform Me at tjoshith09@gmail.com
 
 Pls dont Tamper or share file outside of github as this file is NOT FOR sale as this game is not finished
 
@@ -22,4 +22,6 @@ NOTE OF Thanks
 ms smita & clevered team
 Mr. Ken Khan oxford professor
 (Note: game may not be as smooth on the video this depends on your system)
-(Note: xml files are recommendeed to open in snap.berkeley.edu/snap/snap.html & SB3 files in https://scratch.mit.edu/)
+(Note: xml files are recommended to open in snap.berkeley.edu/snap/snap.html & SB3 files in https://scratch.mit.edu/)
+
+NOTE : THIS PROJECT IS NOW UNSUPPORTED AND NEW VERSIONS WONT BE THERE
